@@ -52,3 +52,4 @@ This is the ASP.NET Core Web API project that is serving REST endpoints and Swag
 - Integration Testing
 - Authentication and Authorization
 - Caching
+- Secrets for credentials
